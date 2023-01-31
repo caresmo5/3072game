@@ -1,2 +1,2 @@
 # 3072game
-Final project for computing course from Mathematics degree (UV)
+Proyecto final para la asignatura Informática del grado en Matemáticas de la UV
