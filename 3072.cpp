@@ -1,8 +1,10 @@
 /****************************************************
-Since this is the final project of computing course
-from Mathematics degree of Universitat de València,
-the comments and variable names are not in English,
-they are in Catalan.
+Puesto que la asignatura fue cursada en valenciano,
+las anotaciones y los nombres de las variables están
+en ese idioma.
+Coautores:
+Andrés B.P.
+Carlos E.M.
 *****************************************************/
 
 #include <iostream>
